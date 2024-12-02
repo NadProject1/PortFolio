@@ -1,0 +1,14 @@
+.navbar a:hover {
+    color: red;
+}
+
+.sosmed a {
+    margin: 30px;
+    padding-top: 30px;
+}
+
+.content {
+    text-align: center;
+    justify-content: center;
+    padding: 30px;
+}

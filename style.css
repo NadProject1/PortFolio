@@ -1,0 +1,14 @@
+.navbar a:hover {
+    color: red;
+}
+
+.sosmed a {
+    margin: 10px;
+    filter: drop-shadow(1px 1px white);
+}
+
+#fotow {
+    height: 200px;
+    border-radius: 50%;
+    margin: 30px;
+}
