@@ -10,7 +10,7 @@
 }
 
 .sosmed a {
-    margin: 10px;
+    margin: 6px;
     filter: drop-shadow(1px 1px white);
 }
 
@@ -21,11 +21,6 @@
     border-top: 2px solid wheat;
     margin-top: 50px;
 }
-.sosmed a {
-    margin: 10px;
-    padding-top: 30px;
-}
-
 .experience {
     padding: 50px;
 }
