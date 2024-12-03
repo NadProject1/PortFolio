@@ -7,10 +7,11 @@
 }
 .card {
     margin: 10px;
+    box-shadow: 2px 2px red;
 }
 
 .sosmed a {
-    margin: 6px;
+    margin: 10px;
     filter: drop-shadow(1px 1px white);
 }
 
@@ -21,11 +22,26 @@
     border-top: 2px solid wheat;
     margin-top: 50px;
 }
+.sosmed a {
+    margin: 10px;
+    padding-top: 30px;
+}
+
 .experience {
     padding: 50px;
+}
+.card:hover {
+  transform: translateY(-5px);  
 }
 
 .tambah {
     justify-content: center;
     text-align: center;
+}
+.tambah a:hover {
+    transform: translateY(-5px);
+}
+
+.sosmed img:hover {
+     transform: translateY(-5px);
 }
