@@ -5,6 +5,7 @@
 .sosmed a {
     margin: 10px;
     padding-top: 30px;
+    filter: drop-shadow(1px 1px white);
 }
 
 .content {
